@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>HotItemsAna</module>
+        <module>NetworkFlowAna</module>
+        <module>MarketAna</module>
+        <module>LoginFailDetect</module>
+        <module>OrderPayDetect</module>
     </modules>
 
     <properties>
